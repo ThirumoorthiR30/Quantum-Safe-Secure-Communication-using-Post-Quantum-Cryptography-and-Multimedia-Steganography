@@ -3,8 +3,7 @@
 
 **Pre-requsties** : pip install fastapi uvicorn pillow cryptography pqcrypto opencv-python pydub numpy
 
-**Backend:**
- Initiate the backend server using the cmd:
+**Backend:**Initiate the backend server using the cmd:
         uvicorn main:app --reload
 
         
