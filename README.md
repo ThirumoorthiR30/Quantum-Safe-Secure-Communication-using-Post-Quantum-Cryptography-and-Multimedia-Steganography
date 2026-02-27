@@ -1,11 +1,13 @@
 # Quantum-Safe-Secure-Communication-using-Post-Quantum-Cryptography-and-Multimedia-Steganography
  Post-Quantum Cryptography (PQC) is designed to resist both classical and quantum-based attacks.  Encryption alone protects data content, but it does not hide the existence of communication.  Steganography enables covert communication by embedding secret data into multimedia files.  Combining quantum-resistant encryption with steganography . 
 
-Pre-requsties : pip install fastapi uvicorn pillow cryptography pqcrypto opencv-python pydub numpy
+**Pre-requsties** : pip install fastapi uvicorn pillow cryptography pqcrypto opencv-python pydub numpy
 
 **Backend:**
  Initiate the backend server using the cmd:
         uvicorn main:app --reload
+
+        
  **Frontend**
       npm start
       
