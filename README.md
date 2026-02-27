@@ -8,7 +8,7 @@
              app --reload
 
         
- **Frontend**
+ **Frontend:**
       npm start
       
 <img width="1919" height="903" alt="image" src="https://github.com/user-attachments/assets/a351cf7d-8c4e-4089-9a2a-5f0669680af0" />
