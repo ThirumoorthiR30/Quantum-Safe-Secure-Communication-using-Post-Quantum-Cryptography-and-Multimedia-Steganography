@@ -1,0 +1,2 @@
+# Quantum-Safe-Secure-Communication-using-Post-Quantum-Cryptography-and-Multimedia-Steganography
+ Post-Quantum Cryptography (PQC) is designed to resist both classical and quantum-based attacks.  Encryption alone protects data content, but it does not hide the existence of communication.  Steganography enables covert communication by embedding secret data into multimedia files.  Combining quantum-resistant encryption with steganography . 
